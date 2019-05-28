@@ -1,0 +1,60 @@
+digraph G {
+    graph [fontname = "helvetica"]
+    node [fontname = "helvetica"]
+    edge [fontname = "helvetica"]
+
+    rankdir = LR
+    nodesep = 1
+	compound = true
+
+    TM_F [shape = box, label = "TaskManager\n(Fast #2)"]
+    TM_S [shape = box, label = "TaskManager\n(Slow #3)"]
+	start [shape = Mdiamond]
+	end [shape = Msquare]
+
+    subgraph cluster_0 {
+        style = filled
+        color = orange
+        node [style = filled, color = white]
+        TM_F -> "TM_S" -> G -> H
+        label = "TaskManager\n(Root #1)"
+	}
+
+	subgraph cluster_1 {
+		node [style = filled]
+		A -> B -> C
+		color = orange
+		label = "TaskManager\n(Fast #2)"
+	}
+
+	subgraph cluster_2 {
+		node [style = filled]
+		D -> E-> F
+		label = "TaskManager\n(Slow #3)"
+		color = orange
+	}
+
+
+    {
+        rank=same;
+        R0 [style = invis]
+        R1 [style = invis]
+        R2 [style = invis]
+        R3 [style = invis]
+        R0 -> R1 -> R2 -> R3 [style = invis]
+    }
+
+    R0 -> start [style = invis]
+    R0 -> end [style = invis]
+    R1 -> TM_F [style = invis]
+    R2 -> A [style = invis]
+    R3 -> D [style = invis]
+
+    start -> TM_F [lhead = cluster_0]
+    TM_F -> A  [lhead = cluster_1]
+    C -> TM_F [style = dotted]
+    C -> D [style = invis]
+    F -> "TM_S" [style = dotted]
+    TM_S -> D [lhead = cluster_2]
+    H -> end
+}

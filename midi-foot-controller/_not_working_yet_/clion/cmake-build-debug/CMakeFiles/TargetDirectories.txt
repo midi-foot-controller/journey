@@ -1,0 +1,13 @@
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/clion.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_REBUILD_PROJECT_INDEX.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_PROGRAM.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_UPDATE_ALL.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOADFS.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_TEST.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_UPLOAD.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_CLEAN.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_BUILD_VERBOSE.dir
+/Users/jensbreitenstein/_shared_/dev/dev.projects/3OC/MIDI-FOOT-CONTROLLER.PUBLIC.GIT/clion/cmake-build-debug/CMakeFiles/PLATFORMIO_MONITOR.dir
